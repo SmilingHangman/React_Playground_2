@@ -1,0 +1,2 @@
+.App{width:800px;height:600px;background-color:#7fffd4;margin:30px auto;display:flex;flex-direction:column;justify-content:center;align-items:center;overflow:hidden;position:relative}.clickable{height:150px;width:150px;background-color:bisque;border-radius:50%;margin:5px 0}.clickable:hover{cursor:pointer}.sidescreen{height:600px;width:200px;background-color:#deb887;position:absolute;left:0;z-index:3}.coverscreen{position:absolute;top:0;right:0;bottom:0;left:0;background-color:rgba(47,79,79,.692);z-index:2}
+/*# sourceMappingURL=main.a83b4706.chunk.css.map */
